@@ -1,2 +1,2 @@
 # Global_arena
-Simple webiste developed using html css
+Simple website developed using html css
